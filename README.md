@@ -38,7 +38,7 @@
 ### **Passos**  
 1. **Clone o repositório** (ou baixe o arquivo `jogo.c`):  
    ```bash
-   git clone https://github.com/NovachronoXII/rock-paper-scissor.git
+   git clone https://github.com/NovachronoXXX/rock-paper-scissor.git
    cd pedra-papel-tesoura
    ```
 2. **Compile o código**:  
@@ -90,7 +90,7 @@ Este projeto está sob a licença **MIT**.
 
 --- 
 
-🔗 **Link para o repositório**: [github.com/NovachronoXII/rock-paper-scissor](https://github.com/NovachronoXII/rock-paper-scissor)  
+🔗 **Link para o repositório**: [github.com/NovachronoXXX/rock-paper-scissor](https://github.com/NovachronoXXX/rock-paper-scissor)  
 
 --- 
 
