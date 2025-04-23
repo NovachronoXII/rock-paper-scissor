@@ -90,7 +90,7 @@ Este projeto está sob a licença **MIT**.
 
 --- 
 
-🔗 **Link para o repositório**: [github.com/seu-usuario/pedra-papel-tesoura](https://github.com/seu-usuario/pedra-papel-tesoura)  
+🔗 **Link para o repositório**: [github.com/NovachronoXII/rock-paper-scissor](https://github.com/NovachronoXII/rock-paper-scissor)  
 
 --- 
 
