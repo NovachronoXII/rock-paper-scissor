@@ -3,7 +3,7 @@
 🔹 Um jogo simples de **Pedra, Papel e Tesoura** desenvolvido em **C**, onde você enfrenta o computador em uma batalha clássica!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xULW8DcQ4P4XFX3x44/giphy.gif" alt="Pedra Papel Tesoura" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpibzI3Ym94bWhzMzhjYzY5dnJlMjN3dTE4ZWxmOWJyNDlreHdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ze2gn6fMWIV6rWJeCO/giphy.gif" alt="Pedra Papel Tesoura" width="300">
 </p>
 
 ---
